@@ -1,0 +1,16 @@
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\bin\Debug\net5.0\RainbowSchool.exe
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\bin\Debug\net5.0\RainbowSchool.deps.json
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\bin\Debug\net5.0\RainbowSchool.runtimeconfig.json
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\bin\Debug\net5.0\RainbowSchool.runtimeconfig.dev.json
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\bin\Debug\net5.0\RainbowSchool.dll
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\bin\Debug\net5.0\ref\RainbowSchool.dll
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\bin\Debug\net5.0\RainbowSchool.pdb
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.csproj.AssemblyReference.cache
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.AssemblyInfoInputs.cache
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.AssemblyInfo.cs
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.csproj.CoreCompileInputs.cache
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.dll
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\ref\RainbowSchool.dll
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.pdb
+C:\Users\samuel_gengiti\Documents\FSDTraining\Practice\RainbowSchool\RainbowSchool\RainbowSchool\obj\Debug\net5.0\RainbowSchool.genruntimeconfig.cache
